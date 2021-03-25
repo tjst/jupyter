@@ -5,6 +5,7 @@ plotly
 seaborn
 scipy
 sympy
+scikit-learn
 ipywidgets
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
